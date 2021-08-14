@@ -1799,5 +1799,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "Purrnelopes Country Club",
+    "symbol": "PCC20",
+    "color": "#dedede",
+    "logo": "https://pbs.twimg.com/profile_images/1415394442324889608/O5jjUKPO_400x400.jpg",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x54c9e17ad8016a062ffd89d1b53aaee80c0cf43d",
+    "hide": false,      
+    "lpToken": "0x54c9e17ad8016a062ffd89d1b53aaee80c0cf43d",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   } 
 ]
